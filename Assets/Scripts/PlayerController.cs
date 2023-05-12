@@ -53,7 +53,7 @@ public class PlayerController : MonoBehaviour
 
         if(score >=1)
         {
-            winText.text = "You Win";
+            winText.text = "Ç®ÇﬂÇ≈Ç∆Ç§ÅI";
         }
     }
 }
